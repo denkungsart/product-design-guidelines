@@ -678,7 +678,7 @@ function setupSearch() {
 
 // Prototype kit ------------------------------------------------------------
 const KIT = new URL('../prototype-kit/', import.meta.url)
-const CDN = 'https://cdn.jsdelivr.net/gh/LucyCoker/product-design-guidelines-1@main/design-system/assets'
+const CDN = 'https://cdn.jsdelivr.net/gh/denkungsart/product-design-guidelines@main/design-system/assets'
 
 // Combinations the guidelines ban, as [all these classes, reason].
 const BANNED = [

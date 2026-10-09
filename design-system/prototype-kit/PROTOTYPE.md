@@ -7,10 +7,10 @@ Paste this into Claude Design, Claude Code, Lovable, v0, Bolt or any other tool 
 Filmmakers System runs on Bootstrap 6 with the Filmmakers layer on top. Load these files and nothing else for styling:
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/LucyCoker/product-design-guidelines-1@main/design-system/assets/bootstrap.min.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/LucyCoker/product-design-guidelines-1@main/design-system/assets/fontawesome.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/LucyCoker/product-design-guidelines-1@main/design-system/assets/filmmakers.css">
-<script type="module" src="https://cdn.jsdelivr.net/gh/LucyCoker/product-design-guidelines-1@main/design-system/assets/bootstrap.bundle.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/denkungsart/product-design-guidelines@main/design-system/assets/bootstrap.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/denkungsart/product-design-guidelines@main/design-system/assets/fontawesome.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/denkungsart/product-design-guidelines@main/design-system/assets/filmmakers.css">
+<script type="module" src="https://cdn.jsdelivr.net/gh/denkungsart/product-design-guidelines@main/design-system/assets/bootstrap.bundle.min.js"></script>
 ```
 
 Start from `design-system/prototype-kit/starter.html`. It already has the header and subheader band.
